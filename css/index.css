@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://us.123rf.com/450wm/jeedruethai/jeedruethai1502/jeedruethai150200009/36827513-clock-face-blank.jpg?ver=6");
+    background-size: 100%;
+    background-color: Linen;
+    background-position: fixed;
+}
+    
+
+.block1 {
+    background: rgba(0,0,0,.9);
+    color: SlateBlue;
+    padding: 15px;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 40px;
+}
+
+.spacer1 {
+    padding: 5%;
+}
+
+h2 {
+    display: inline;
+}
+
+#start, #reset {
+    margin: 20px;
+}
+
+.custom {
+    color: black;
+    background-color: slategrey;
+    border-radius: 25px;
+    padding: 5%;
+}
